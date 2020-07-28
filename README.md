@@ -3,7 +3,7 @@ A Full Stack McKinley Chat Cord Web Application using Socket API. This is Projec
 
 Dependencies npm Package install
 
-# npm install
+## npm install
 ## npm run dev
 
 After the above dependencies installed run the server on localhost:3000 
