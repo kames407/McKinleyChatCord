@@ -1,7 +1,7 @@
 # McKinleyChatCord
 A Full Stack McKinley Chat Cord Web Application using Socket API. This is Project is done for McKinley and Rice Full Stack Challenge
 
-Dependencies npm Package install
+Dependencies are below
 
 ## npm install
 ## npm run dev
